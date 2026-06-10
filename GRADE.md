@@ -11,7 +11,7 @@
 | Coursework         |  Weight | Score (%) | Weighted Score |                   Remarks                    |
 |--------------------|---------|-----------|----------------|----------------------------------------------|
 | Class Participation|  10%    |           |                |                                              |
-| Assignment 0       |   4%    |           |                |                                              |
+| Assignment 0       |   4%    |     100.0 |                |                                              |
 | Assignment 1       |  10%    |           |                |                                              |
 | Quiz 1             |   4%    |           |                |                                              |
 | Assignment 2       |  10%    |           |                |                                              |
@@ -20,4 +20,4 @@
 | Assignment 3       |  13%    |           |                |                                              |
 | Test II            |  15%    |           |                |                                              |
 | Project            |  15%    |           |                |                                              |
-| **Total**          | **100%**|           |                |                                              |
+| **Total**          | **100%**|  **28.57**|   **17.14/60** |                                              |
